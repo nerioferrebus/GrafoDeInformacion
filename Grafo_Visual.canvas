@@ -1,14 +1,6 @@
 {
-  "nodes": [
-    {
-      "id": "node_Sistemas Distribuidos_253",
-      "type": "file",
-      "file": "Sistemas Distribuidos.md",
-      "x": -142,
-      "y": 340,
-      "width": 360,
-      "height": 260
-    }
-  ],
-  "edges": []
+	"nodes":[
+		{"id":"node_Sistemas Distribuidos_253","type":"file","file":"Sistemas Distribuidos.md","x":-400,"y":-1260,"width":820,"height":1940}
+	],
+	"edges":[]
 }
