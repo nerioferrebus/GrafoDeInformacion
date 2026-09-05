@@ -7,3 +7,4 @@
 | [[Gestión e Integración Sistémica del Desperdicio Alimentario]] | Logística y Operaciones | 2026-09-04 16:48 |
 | [[Agente Inteligente para la Optimización y Rescate de Alimentos Perecederos]] | AI & Logística | 2026-09-04 16:50 |
 | [[Harness Pi: Marco de Automatización y Pruebas en Edge Computing]] | DevOps / Edge Computing | 2026-09-05 10:30 |
+| [[Test Harness (Arnés de Pruebas)]] | QA & Testing | 2026-09-05 10:34 |
