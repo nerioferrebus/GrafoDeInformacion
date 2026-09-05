@@ -8,3 +8,4 @@
 | [[Agente Inteligente para la Optimización y Rescate de Alimentos Perecederos]] | AI & Logística | 2026-09-04 16:50 |
 | [[Harness Pi: Marco de Automatización y Pruebas en Edge Computing]] | DevOps / Edge Computing | 2026-09-05 10:30 |
 | [[Test Harness (Arnés de Pruebas)]] | QA & Testing | 2026-09-05 10:34 |
+| [[Herramientas para Agentes de Inteligencia Artificial]] | Inteligencia Artificial | 2026-09-05 10:36 |
